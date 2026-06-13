@@ -1,4 +1,4 @@
-# Zero-Shot and Few-Shot Data Extraction using Google Gemini
+# Zero-Shot and Few-Shot Data Extraction 
 
 ## Description
 This project uses Google's Gemini LLM to convert unstructured text into structured JSON data using Zero-Shot and Few-Shot Prompting techniques.
